@@ -3,8 +3,8 @@
 <template>
   <nav class="navbar">
     <div class="title">
-      <img src="../assets/logo.svg" alt="Vue icon" width="40">
-      <p id="title">ue Demo</p>
+      <img src="../assets/logo.svg" alt="Vue icon" width="30">
+      <p id="title">ueJS Demo</p>
     </div>
     <div class="menu">
       <p><font-awesome-icon icon="bars" id="menu" /></p>
