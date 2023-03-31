@@ -38,9 +38,11 @@ export default {
 <style scoped>
   .content {
     display: table-column;
-    justify-items: center;
+    /* justify-items: center; */
+    left: 50%;
     background-color: hsla(1, 100%, 0%, 0.5);
     border-radius: 5px;
+    padding: 20px;
   }
   .counter {
     display: block;
