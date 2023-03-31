@@ -6,9 +6,6 @@ import TitleBar from './components/TitleBar.vue';
 <template>
   <TitleBar></TitleBar>
   <Button></Button>
-  <div>
-    <button>Next Image</button>
-  </div>
 </template>
 
 <style scoped>
