@@ -10,6 +10,4 @@ import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 
 library.add(faBars);
 
-import './assets/main.css';
-
 createApp(App).component("font-awesome-icon", FontAwesomeIcon).mount('#app');
